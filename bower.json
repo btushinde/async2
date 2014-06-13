@@ -1,0 +1,19 @@
+{
+  "name": "async2",
+  "version": "0.1.7",
+  "homepage": "https://github.com/btushinde/async2",
+  "authors": [
+    "Mike Smullin <mike@smullindesign.com>"
+  ],
+  "description": "Better async utilities for node and the browser",
+  "main": "./js/async.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
